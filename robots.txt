@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://panskyidvir.chernivtsi.space/sitemap.xml
+Sitemap: https://panskyidvir.hotelup.work/sitemap.xml
