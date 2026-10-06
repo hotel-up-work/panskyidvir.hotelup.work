@@ -71,7 +71,7 @@ HotelOS (`ch-panskyidvir`): `stay-request` (проживання), `event-reques
 |---|---|---|
 | images/room-std-1bed.jpg | Стандартний, 1 ліжко | panskiy-dvir.com.ua/standart-2-osoby-1-bed/ |
 | images/room-std-2beds.jpg | Стандартний, 2 ліжка | panskiy-dvir.com.ua/standart-2-beds/ |
-| images/room-budget.jpg | Бюджетний | panskiy-dvir.com.ua/standart-byudzhetnyj-2-beds/ |
+| images/room-budget.jpg | Бюджетний | panskiy-dvir.com.ua/standart-byudzhetnyj-2-beds/ (фото 2 — щоб не дублювати кадр ліжка зі «Стандартний, 1 ліжко») |
 | images/room-lyuks.jpg | Номер «Люкс» | panskiy-dvir.com.ua/lyuks/ |
 
 Фото міста (не готелю) — з Pexels, підключені за прямими посиланнями images.pexels.com (без копій у репо), з підписами та авторами на сторінці:
