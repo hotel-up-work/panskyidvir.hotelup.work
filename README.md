@@ -62,7 +62,7 @@ Booking.com listing text (description, rooms, breakfast, house rules; guest revi
 - [ ] TODO: перевірити ціни й наявність через сам готель; на сторінці цін немає
 
 ## Forms
-HotelOS (`ch-panskyidvir`): `stay-request` (проживання), `event-request` (Запит на подію), `conference-request` (Запит на конференц-зал). Документ `hotels/ch-panskyidvir` у Firestore треба створити вручну, інакше правила відхилять заявки.
+HotelOS (`ch-panskyidvir`): `stay-request` (проживання), `event-request` (Запит на подію — єдина форма для банкетів і конференцій, секції «Банкети» та «Зустрічі, тренінги й конференції» об'єднано в один блок з однією формою; `#conference-request` лишився якорем на підрозділ конференцій усередині тієї ж секції). Документ `hotels/ch-panskyidvir` у Firestore треба створити вручну, інакше правила відхилять заявки.
 
 ## Photos
 Фото номерів — реальні фото закладу, завантажені з офіційного сайту (panskiy-dvir.com.ua, сторінки кожної категорії номерів), збережені локально в `images/` (ресайз до 1200px по ширині, JPEG q≈78):
